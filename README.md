@@ -1,3 +1,3 @@
 To view the project click below
 
-https://meher450.github.io/project42/
+https://bhaktibhosale.github.io/pro-42/
