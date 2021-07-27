@@ -63,7 +63,8 @@ function draw() {
     }
   }
 
-  if(spacecraft.isTouching(abc)){
+  //if(spacecraft.isTouching(abc)){
+    if(spacecraft.y <= (iss.y+70) && spacecraft.x <= (iss.x-10)){ 
     hasDocked=true;
     fill("white");
     textSize(30);
